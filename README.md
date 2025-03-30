@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://github.com/ganler/nnsmith-logo/raw/master/nnsmith-logo.png" align="right" alt="logo" width="200px"/>
 </div>
-
+ 
 # NNSmith
 
 [![](https://github.com/ise-uiuc/nnsmith/actions/workflows/ci.yaml/badge.svg)](https://github.com/ise-uiuc/nnsmith/actions/workflows/ci.yaml)
